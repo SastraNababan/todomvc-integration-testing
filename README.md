@@ -32,12 +32,8 @@ npm run compile
 *Let us [know](https://github.com/tastejs/todomvc/issues) if you discover anything worth sharing.*
 
 
-## Implementation
-
-Uses [Google Closure Compiler](https://developers.google.com/closure/compiler/) to compile ES6 code to ES5, which is then readable by all browsers.
-
 
 ## Credit
 
 Created by [Luke Edwards](http://www.lukeed.com)
-Refactored by [Aaron Muir Hamilton](https://github.com/xorgy)
+Refactored by [Sastra Nababan](https://github.com/SastraNababan)
